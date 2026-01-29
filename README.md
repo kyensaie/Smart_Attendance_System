@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Smart Attendance System
 
 ## Overview
@@ -163,3 +164,7 @@ Class of 2028
 This project is intended for **educational purposes** only.
 
 
+=======
+# Smart_Attendance_System
+**Smart Attendance System with dual QR code and facial recognition technology, featuring a clean GUI for student registration, real-time attendance tracking, and automated record management.**
+>>>>>>> 0cda90b681594845def8872f16045690a3255d2b
